@@ -27,14 +27,14 @@ cd Email-Metadata-Extractor
 
 2. Access the Application:
 
-Open your web browser and navigate to http://127.0.0.1:5000 to view the application.
+   Open your web browser and navigate to http://127.0.0.1:5000 to view the application.
 
 3. Using the Web Interface
 
-Upload a .eml File: On the home page, click the "Choose File" button to select a .eml file from your local system.
+   Upload a .eml File: On the home page, click the "Choose File" button to select a .eml file from your local system.
                     Click the "Upload" button to submit the file.
                     The application will parse the email and display the extracted metadata.
 
-Paste Email Metadata:Alternatively, you can paste raw email metadata into the provided text area.
+   Paste Email Metadata:Alternatively, you can paste raw email metadata into the provided text area.
                      Click the "Submit" button to process the metadata and view the results.
 
