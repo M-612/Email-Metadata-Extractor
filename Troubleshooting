@@ -1,0 +1,11 @@
+Error: "File Not Found"
+Ensure the file path is correct and the .eml file is properly selected.
+Verify that the file is a valid .eml format.
+
+Error: "Invalid Metadata Format"
+Check that the pasted metadata is correctly formatted and complete.
+Ensure there are no extraneous characters or errors in the metadata.
+
+Server Not Starting
+Verify that you have all the required dependencies installed.
+Check for error messages in the terminal and ensure there are no syntax errors in app.py.
