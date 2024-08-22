@@ -1,0 +1,14 @@
+Built-in Python Modules Used
+1. email Module
+Purpose:The email module in Python is used to parse email messages and extract various components such as headers, payloads, and attachments. In this project, it is utilized to parse the content of .eml files or raw email metadata provided by the user. The module enables easy access to email headers like From, To, Date, Subject, and more, allowing the application to efficiently extract and display these details.
+
+Installation:No additional installation is required as the email module is part of Python's standard library.
+
+Documentation:For more detailed information about the email module, you can refer to the official Python documentation.
+
+2. re Module (Regular Expressions)
+Purpose:The re module is Python's built-in library for working with regular expressions. In this project, it is used to extract specific patterns from email headers, such as IP addresses, timestamps, and other key pieces of information embedded within the email metadata. Regular expressions provide powerful search and matching capabilities, making it easier to identify and extract these patterns from the text.
+
+Installation:Like the email module, the re module is also part of Python's standard library and does not require any additional installation.
+
+Documentation:For more detailed information about the re module, you can refer to the official Python documentation.
