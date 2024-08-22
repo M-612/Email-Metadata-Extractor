@@ -2,7 +2,8 @@
 This is a Flask-based web application that extracts metadata from `.eml` files or pasted email metadata. The application parses various headers such as `From`, `To`, `Date`, `Subject`, and more, to help users analyse email metadata efficiently.
 
 ##Features
-- Upload `.eml` File: Users can upload an `.eml` file to extract and display its metadata.
+
+-Upload `.eml` File: Users can upload an `.eml` file to extract and display its metadata.
   
 -Paste Email Metadata: Users can paste raw email metadata directly into the text area provided on the web page.
 
